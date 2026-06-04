@@ -97,3 +97,25 @@ Chioma Shaba
 Master's Candidate, Cybersecurity & Information Assurance
 
 Governance, Risk & Compliance (GRC) Analyst
+
+## Project Screenshots
+
+### Security Gap Assessment
+
+![Security Gap](Security%20Gap-png.png)
+
+### Security Gap Analysis (Continued)
+
+![Security Gap Continued](Security%20Gap%20Continued.png)
+
+### AC-6 Least Privilege Risk Assessment
+
+![AC-6 Least Privilege](AC-6%20Least%20Privilege%20png.png)
+
+### Continuous Monitoring Assessment
+
+![Continuous Monitoring](Continuous%20Monitoring%20png.png)
+
+### PCI DSS Policy Development
+
+![PCI DSS Policy](pci-dss-policy.png)
